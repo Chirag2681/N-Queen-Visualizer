@@ -1,5 +1,9 @@
-# N-Queen-Visualizer
-Features
-Solves the N-Queen problem using a backtracking algorithm.
-Visualizes the solution on a graphical chessboard.
-Supports any size of N (within reasonable computational limits).
+# N-Queen-Visualizer <br/>
+<b> Introduction:</b> <br/>
+The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.
+This algorithm is designed using recursion.<br/>
+
+<b>Features:</b> <br/>
+Solves the N-Queen problem using a backtracking algorithm.<br/>
+Visualizes the solution on a graphical chessboard.<br/>
+Supports any size of N (within reasonable computational limits).<br/>
